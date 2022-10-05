@@ -8,7 +8,7 @@ console.log(boxPassword);
 const result=`<p>username: ${userName}</p>
             <p>lastname: ${lastName}</p>
             <p>Favorite Color:${bestCol}</p>
-            <p class="user-password">Password:${userName}${lastName}${bestCol}${number}</p>
+            <p style="color:${bestCol};">Password:${userName}${lastName}${bestCol}${number}</p>
             `;
 //output
 
