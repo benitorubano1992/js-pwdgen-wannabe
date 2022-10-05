@@ -1,0 +1,23 @@
+*{margin:0;
+  padding:0;  
+box-sizing:border-box;
+}
+.container{
+    width:400px;
+    margin:0 auto;
+background-color: green;
+color:red;
+text-align: center;
+}
+
+#info-password{
+    padding-top:20px;
+    width:300px;
+    margin:0 auto;
+    color:blue;
+    text-align: center;
+
+}
+#info-password p{
+    margin-bottom:10px;
+}
